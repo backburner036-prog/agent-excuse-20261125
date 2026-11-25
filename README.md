@@ -1,6 +1,8 @@
 # The Excuse Your Agent Gives You
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
+[![make.fun · u-kevin-the-excuse-your-agent-gives-you-c1861261](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
+[![rank](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/backburner036-prog/agent-excuse-20261125/rank.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261/leaderboard)
+[![reward](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/backburner036-prog/agent-excuse-20261125/reward.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
 
 Entry for the [make.fun](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261) bounty "The Excuse Your Agent Gives You": one line, in the agent's own voice. The compiler warned it 47 times — it read them as encouragement, and shipped it on the 48th.
 
